@@ -154,4 +154,8 @@ This project helped us learn Python, Pygame, keyboard controls, coordinates, ran
 
 The aim is simple: **Move the basket, catch the ball, and score points!**
 
-@SATYAPRAKASHSETHY
+*Mentored by:* [Mr. Satyaprakash Sethy](https://github.com/SATYAPRAKASHSETHY)
+
+*GitHub:* [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)
+
+*Role:* Python Mentor / Technical Guide
